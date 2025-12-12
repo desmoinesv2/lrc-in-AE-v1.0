@@ -1,0 +1,5 @@
+{
+  "name": "Lyrical AE Generator",
+  "description": "A tool to generate Apple Music style lyric animation scripts for Adobe After Effects.",
+  "requestFramePermissions": []
+}
